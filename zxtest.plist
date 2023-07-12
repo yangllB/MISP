@@ -9,7 +9,7 @@
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
-     <string>http://rxo8gpc9l.hn-bkt.clouddn.com/zxtest_1.0%20%281%29.ipa?e=1689181984&token=YGsxATpY254t2800Aw6cwaAzo6Kz2Zek3uryxa8H:Z-QQfc10seG6ZY6sdpGttnZCKLc=</string>
+     <string>https://raw.githubusercontent.com/yangllB/MISP/main/zxtest_1.0.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -17,7 +17,7 @@
      <key>need-shine</key>
      <integer>0</integer>
      <key>url</key>
-     <string>http://rxo8gpc9l.hn-bkt.clouddn.com/icon-1024.png?e=1689181945&token=YGsxATpY254t2800Aw6cwaAzo6Kz2Zek3uryxa8H:mfG0tJYnGFDwyvaDXHrEjwaOMo4=</string>
+     <string>https://raw.githubusercontent.com/yangllB/MISP/main/21682388533_.pic.jpg</string>
     </dict>
    </array>
    <key>metadata</key>
